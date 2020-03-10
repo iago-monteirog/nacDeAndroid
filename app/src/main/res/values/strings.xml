@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Galeria de Imagens</string>
+    <string name="imagem_anterior">Imagem Anterior</string>
+    <string name="proxima_imagem">Proxima Imagem</string>
+</resources>
